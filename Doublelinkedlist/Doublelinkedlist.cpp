@@ -112,3 +112,5 @@ void Doublelinkedlist::ascending() {
 		}
 	}
 }
+
+void Doublelinkedlist::descending() {
