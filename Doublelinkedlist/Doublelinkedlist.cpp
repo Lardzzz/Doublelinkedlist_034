@@ -100,3 +100,4 @@ bool Doublelinkedlist::listEmpty() {
 	return (START == NULL);
 }
 
+void Doublelinkedlist::ascending() {
