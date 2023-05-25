@@ -30,3 +30,6 @@ Doublelinkedlist::Doublelinkedlist() {
 	START = NULL;
 }
 
+void Doublelinkedlist::addNode() {
+	int nim;
+	string nm;
