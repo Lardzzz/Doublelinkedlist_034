@@ -144,3 +144,5 @@ void Doublelinkedlist::hapus() {
 	else
 		cout << "Record with roll number " << rollNo << "deleted" << endl;
 }
+
+void Doublelinkedlist::searchData() {
