@@ -53,3 +53,5 @@ void Doublelinkedlist::addNode() {
 		START = newNode;
 		return;
 	}
+
+	Node* current = START;
